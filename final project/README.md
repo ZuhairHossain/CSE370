@@ -1,6 +1,6 @@
-# My Project
+# Project Overview
 
-This is a description of my project.
+This is the overview of this project.
 
 ## Video Demo
 
